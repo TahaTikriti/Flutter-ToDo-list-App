@@ -1,16 +1,4 @@
 # to_do_list_taha
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This Flutter project is a simple to-do list mobile application. Users can add tasks, mark them as completed or uncompleted, and delete tasks. The app provides a filter feature to view all tasks, completed tasks, or uncompleted tasks. The main screen displays tasks with checkboxes for completion status, task names, and delete buttons. The app's AppBar includes a title and the current filter setting. A drawer menu allows users to easily switch between task filters. To add a new task, users enter the task name in the text field at the bottom and press the add button. The code uses Flutter's StatefulWidget for dynamic updates and leverages various Flutter widgets for building the user interface. The GitHub repository can showcase the progression of the app, starting with the widget declarations, state management, task filtering, and user interface components. Overall, this project serves as a practical introduction to building a basic mobile to-do list application using Flutter.
